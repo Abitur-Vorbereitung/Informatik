@@ -6,17 +6,65 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Logikgatter</title>
-    <link>https://quartz.jzhao.xyz/Logikgatter</link>
-    <guid>https://quartz.jzhao.xyz/Logikgatter</guid>
-    <description> Aus Logikgattern werden Schaltkreise gebaut.</description>
-    <pubDate>Sat, 12 Apr 2025 19:02:27 GMT</pubDate>
-  </item><item>
     <title>Themen</title>
     <link>https://quartz.jzhao.xyz/Themen</link>
     <guid>https://quartz.jzhao.xyz/Themen</guid>
-    <description> Technische Informatik Logikgatter Theoretische Informatik Praktische Informatik Angewandte Informatik Change.</description>
-    <pubDate>Sat, 12 Apr 2025 18:55:34 GMT</pubDate>
+    <description> Theoretische Informatik Registermaschinen Endliche Automaten Turingmaschinen Formale Sprachen und Grammatiken Technische Informatik Logikgatter Flip-Flops und Clocks Boolsche Algebra Praktische Informatik Java-Programmierung UML und Struktugramme Datenstrukturen Algorithmen Komplexitätsbetrachtung ...</description>
+    <pubDate>Sun, 13 Apr 2025 11:23:33 GMT</pubDate>
+  </item><item>
+    <title>Datenbanken</title>
+    <link>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</link>
+    <guid>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:06:18 GMT</pubDate>
+  </item><item>
+    <title>Kryptografie</title>
+    <link>https://quartz.jzhao.xyz/Angewandte-Informatik/Kryptografie</link>
+    <guid>https://quartz.jzhao.xyz/Angewandte-Informatik/Kryptografie</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:06:17 GMT</pubDate>
+  </item><item>
+    <title>Komplexitätsbetrachtung</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Komplexit%C3%A4tsbetrachtung</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Komplexit%C3%A4tsbetrachtung</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:06:01 GMT</pubDate>
+  </item><item>
+    <title>Algorithmen</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Algorithmen</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Algorithmen</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:06:00 GMT</pubDate>
+  </item><item>
+    <title>Datenstrukturen</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Datenstrukturen</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Datenstrukturen</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:05:58 GMT</pubDate>
+  </item><item>
+    <title>UML und Struktugramme</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Struktugramme</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Struktugramme</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:05:57 GMT</pubDate>
+  </item><item>
+    <title>Java-Programmierung</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Java-Programmierung</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Java-Programmierung</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:05:55 GMT</pubDate>
+  </item><item>
+    <title>Formale Sprachen und Grammatiken</title>
+    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Formale-Sprachen-und-Grammatiken</link>
+    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Formale-Sprachen-und-Grammatiken</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:05:40 GMT</pubDate>
+  </item><item>
+    <title>Turingmaschinen</title>
+    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</link>
+    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</guid>
+    <description></description>
+    <pubDate>Sun, 13 Apr 2025 11:05:38 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -1,7 +1,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/Logikgatter</loc>
+    <loc>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</loc>
+    <lastmod>2025-04-13T11:06:18.922Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Angewandte-Informatik/Kryptografie</loc>
+    <lastmod>2025-04-13T11:06:17.517Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Praktische-Informatik/Algorithmen</loc>
+    <lastmod>2025-04-13T11:06:00.180Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Praktische-Informatik/Datenstrukturen</loc>
+    <lastmod>2025-04-13T11:05:58.652Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Praktische-Informatik/Java-Programmierung</loc>
+    <lastmod>2025-04-13T11:05:55.649Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Praktische-Informatik/Komplexit%C3%A4tsbetrachtung</loc>
+    <lastmod>2025-04-13T11:06:01.650Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Struktugramme</loc>
+    <lastmod>2025-04-13T11:05:57.283Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Technische-Informatik/Boolsche-Algebra</loc>
+    <lastmod>2025-04-13T11:05:14.247Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Technische-Informatik/Flip-Flops-und-Clocks</loc>
+    <lastmod>2025-04-13T11:05:11.580Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Technische-Informatik/Logikgatter</loc>
     <lastmod>2025-04-12T19:02:27.369Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Themen</loc>
-    <lastmod>2025-04-12T18:55:34.345Z</lastmod>
+    <lastmod>2025-04-13T11:23:33.651Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Theoretische-Informatik/Endliche-Automaten</loc>
+    <lastmod>2025-04-13T11:05:34.342Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Theoretische-Informatik/Formale-Sprachen-und-Grammatiken</loc>
+    <lastmod>2025-04-13T11:05:40.975Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</loc>
+    <lastmod>2025-04-13T11:05:30.335Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</loc>
+    <lastmod>2025-04-13T11:05:38.378Z</lastmod>
   </url></urlset>
