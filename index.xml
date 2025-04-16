@@ -6,65 +6,65 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Registermaschinen</title>
-    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</link>
-    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</guid>
-    <description> sind Automaten mit Speichereinheiten (Registern) ähneln Assembly-Sprachen Aufbau Code BefehlWirkung 1Wirkung 2LOAD ic0:=c(i)b:=b+1CLOAD ic0:=ib:=b+1INDLOAD ic0:=c(c(i))b:=b+1STORE ic(i):=c0b:=b+1INDSTORE ic(c(i)):=c0b:=b+1ADD ic0:=c0+c(i)b:=b+1CADD ic0:=c0+ib:=b+1INDADD ic0:=c0+c(c(i))b:=b+1SUB ic0...</description>
-    <pubDate>Wed, 16 Apr 2025 11:04:23 GMT</pubDate>
-  </item><item>
-    <title>Turingmaschinen</title>
-    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</link>
-    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</guid>
-    <description> sind Automaten und ein Werkzeug der theoretischen Informatik Definition.</description>
-    <pubDate>Tue, 15 Apr 2025 10:29:54 GMT</pubDate>
-  </item><item>
-    <title>Themen</title>
-    <link>https://quartz.jzhao.xyz/Themen</link>
-    <guid>https://quartz.jzhao.xyz/Themen</guid>
-    <description> Theoretische Informatik Registermaschinen Endliche Automaten Turingmaschinen Formale Sprachen und Grammatiken Technische Informatik Logikgatter Flipflops und Clocks Boolesche Algebra Praktische Informatik Java-Programmierung UML und Struktugramme Datenstrukturen Algorithmen Komplexitätsbetrachtung ...</description>
-    <pubDate>Tue, 15 Apr 2025 10:15:46 GMT</pubDate>
-  </item><item>
-    <title>Flipflops und Clocks</title>
-    <link>https://quartz.jzhao.xyz/Technische-Informatik/Flipflops-und-Clocks</link>
-    <guid>https://quartz.jzhao.xyz/Technische-Informatik/Flipflops-und-Clocks</guid>
-    <description>Flipflops auch bistabile Kippstufen genannt haben zwei stabile Zustände, können also 1bit an Information speichern.</description>
-    <pubDate>Tue, 15 Apr 2025 09:44:22 GMT</pubDate>
-  </item><item>
-    <title>Boolesche Algebra</title>
-    <link>https://quartz.jzhao.xyz/Technische-Informatik/Boolesche-Algebra</link>
-    <guid>https://quartz.jzhao.xyz/Technische-Informatik/Boolesche-Algebra</guid>
-    <description>Operatoren NOT Zeichen: \lnot Funktion: Negiert Werte Mathematische Bedeutung: 1-x AND Zeichen: \land Funktion: Überprüft, ob beide Werte 1 sind Mathematische Bedeutung: x_1*x_2 OR Zeichen: \lor Funktion: Überprüft, ob mind.</description>
-    <pubDate>Tue, 15 Apr 2025 08:53:02 GMT</pubDate>
-  </item><item>
-    <title>Logikgatter</title>
-    <link>https://quartz.jzhao.xyz/Technische-Informatik/Logikgatter</link>
-    <guid>https://quartz.jzhao.xyz/Technische-Informatik/Logikgatter</guid>
-    <description> Aus Logikgattern werden Schaltkreise gebaut.</description>
-    <pubDate>Tue, 15 Apr 2025 08:15:17 GMT</pubDate>
-  </item><item>
     <title>Datenbanken</title>
     <link>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</link>
     <guid>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:06:18 GMT</pubDate>
+    <description> zum gezielten Speichern, Manipulieren und Aufrufen von Informationen Arten Relational Tabellen verweisen aufeinander Nicht-Relational Tabellen sind unabhängig voneinander ER-Diagramm Entity-Relation-Diagramm ![][../img/ER-Diagramm.png] SQL Structured Query Language SQL ist ein weit verbreitetes rel...</description>
+    <pubDate>Wed, 16 Apr 2025 18:39:27 GMT</pubDate>
   </item><item>
     <title>Kryptografie</title>
     <link>https://quartz.jzhao.xyz/Angewandte-Informatik/Kryptografie</link>
     <guid>https://quartz.jzhao.xyz/Angewandte-Informatik/Kryptografie</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:06:17 GMT</pubDate>
+    <description> zum Verschlüsseln und Singnieren von Daten Methoden RSA Rivest, Shamir, Adleman (Namen der Entwickler) RSA ist ein asymmetrisches kryptographisches Verfahren, das sowohl zum Verschlüsseln als auch zum digitalen Signieren verwendet werden kann.</description>
+    <pubDate>Wed, 16 Apr 2025 18:07:58 GMT</pubDate>
+  </item><item>
+    <title>UML und Strukturgramme</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Strukturgramme</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Strukturgramme</guid>
+    <description> zur Planung von Klassen bzw.</description>
+    <pubDate>Wed, 16 Apr 2025 17:37:38 GMT</pubDate>
   </item><item>
     <title>Komplexitätsbetrachtung</title>
     <link>https://quartz.jzhao.xyz/Praktische-Informatik/Komplexit%C3%A4tsbetrachtung</link>
     <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Komplexit%C3%A4tsbetrachtung</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:06:01 GMT</pubDate>
+    <description> Betrachtung der Aufwandskalierung in Abhängigkeit der bearbeiteten Elemente n wird in der Landau-Notation O(n)=..</description>
+    <pubDate>Wed, 16 Apr 2025 17:05:59 GMT</pubDate>
   </item><item>
     <title>Algorithmen</title>
     <link>https://quartz.jzhao.xyz/Praktische-Informatik/Algorithmen</link>
     <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Algorithmen</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:06:00 GMT</pubDate>
+    <description> Handlungsvorschrift Algorithmen sind Handlungsvorschriften zur Lösung eines Problems/Bewältigung einer Aufgabe.</description>
+    <pubDate>Wed, 16 Apr 2025 16:57:36 GMT</pubDate>
+  </item><item>
+    <title>Datenstrukturen</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Datenstrukturen</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Datenstrukturen</guid>
+    <description> zum effizienten Speichern und Abrufen von Daten Arrays speichern mehrere Informationen des gleichen Typs haben eine beliebige jedoch feste Dimensionsanzahl und Länge pro Dimension Linked-Lists ähneln Arrays, haben jedoch nur eine Dimension und eine variable Länge Array-Lists haben ein internes Arra...</description>
+    <pubDate>Wed, 16 Apr 2025 16:52:41 GMT</pubDate>
+  </item><item>
+    <title>Java-Programmierung</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Java-Programmierung</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Java-Programmierung</guid>
+    <description> Java Java ist eine objektorientierte Programmiersprache mit einem Garbage-Collector, was die Sprache sicherer und einfacher macht, jedoch auch die Schnelligkeit senkt.</description>
+    <pubDate>Wed, 16 Apr 2025 16:48:06 GMT</pubDate>
+  </item><item>
+    <title>Themen</title>
+    <link>https://quartz.jzhao.xyz/Themen</link>
+    <guid>https://quartz.jzhao.xyz/Themen</guid>
+    <description> Theoretische Informatik Registermaschinen Endliche Automaten Turingmaschinen Formale Sprachen und Grammatiken Technische Informatik Logikgatter Flipflops und Clocks Boolesche Algebra Praktische Informatik Java-Programmierung UML und Strukturgramme Datenstrukturen Algorithmen Komplexitätsbetrachtung...</description>
+    <pubDate>Wed, 16 Apr 2025 15:40:47 GMT</pubDate>
+  </item><item>
+    <title>Formale Sprachen und Grammatiken</title>
+    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Formale-Sprachen-und-Grammatiken</link>
+    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Formale-Sprachen-und-Grammatiken</guid>
+    <description> werden im Compilerbau genutzt Grammatiken bestehen aus einem 4-Tupel G=(N,T,P,S) Nichtterminale N sind Variablen, welche Terminalen zugeordnet werden Terminale T sind Zeichen eines Alphabets Produktionsregeln P geben vor, wie ein Wort aufgebaut ist Beispiel: S \to a|aBa|\epsilon B \to bSb Startsymb...</description>
+    <pubDate>Wed, 16 Apr 2025 15:40:11 GMT</pubDate>
+  </item><item>
+    <title>Endliche Automaten</title>
+    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Endliche-Automaten</link>
+    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Endliche-Automaten</guid>
+    <description> zur Modellierung eines Algorithmus Grundlegender Aufbau Endliche Automaten sind definitert durch ein Tupel mit mind.</description>
+    <pubDate>Wed, 16 Apr 2025 15:16:18 GMT</pubDate>
   </item>
     </channel>
   </rss>
