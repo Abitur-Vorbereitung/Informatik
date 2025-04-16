@@ -6,11 +6,41 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Registermaschinen</title>
+    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</link>
+    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</guid>
+    <description> sind Automaten mit Speichereinheiten (Registern) ähneln Assembly-Sprachen Aufbau Code BefehlWirkung 1Wirkung 2LOAD ic0:=c(i)b:=b+1CLOAD ic0:=ib:=b+1INDLOAD ic0:=c(c(i))b:=b+1STORE ic(i):=c0b:=b+1INDSTORE ic(c(i)):=c0b:=b+1ADD ic0:=c0+c(i)b:=b+1CADD ic0:=c0+ib:=b+1INDADD ic0:=c0+c(c(i))b:=b+1SUB ic0...</description>
+    <pubDate>Wed, 16 Apr 2025 11:04:23 GMT</pubDate>
+  </item><item>
+    <title>Turingmaschinen</title>
+    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</link>
+    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</guid>
+    <description> sind Automaten und ein Werkzeug der theoretischen Informatik Definition.</description>
+    <pubDate>Tue, 15 Apr 2025 10:29:54 GMT</pubDate>
+  </item><item>
     <title>Themen</title>
     <link>https://quartz.jzhao.xyz/Themen</link>
     <guid>https://quartz.jzhao.xyz/Themen</guid>
-    <description> Theoretische Informatik Registermaschinen Endliche Automaten Turingmaschinen Formale Sprachen und Grammatiken Technische Informatik Logikgatter Flip-Flops und Clocks Boolsche Algebra Praktische Informatik Java-Programmierung UML und Struktugramme Datenstrukturen Algorithmen Komplexitätsbetrachtung ...</description>
-    <pubDate>Sun, 13 Apr 2025 11:23:33 GMT</pubDate>
+    <description> Theoretische Informatik Registermaschinen Endliche Automaten Turingmaschinen Formale Sprachen und Grammatiken Technische Informatik Logikgatter Flipflops und Clocks Boolesche Algebra Praktische Informatik Java-Programmierung UML und Struktugramme Datenstrukturen Algorithmen Komplexitätsbetrachtung ...</description>
+    <pubDate>Tue, 15 Apr 2025 10:15:46 GMT</pubDate>
+  </item><item>
+    <title>Flipflops und Clocks</title>
+    <link>https://quartz.jzhao.xyz/Technische-Informatik/Flipflops-und-Clocks</link>
+    <guid>https://quartz.jzhao.xyz/Technische-Informatik/Flipflops-und-Clocks</guid>
+    <description>Flipflops auch bistabile Kippstufen genannt haben zwei stabile Zustände, können also 1bit an Information speichern.</description>
+    <pubDate>Tue, 15 Apr 2025 09:44:22 GMT</pubDate>
+  </item><item>
+    <title>Boolesche Algebra</title>
+    <link>https://quartz.jzhao.xyz/Technische-Informatik/Boolesche-Algebra</link>
+    <guid>https://quartz.jzhao.xyz/Technische-Informatik/Boolesche-Algebra</guid>
+    <description>Operatoren NOT Zeichen: \lnot Funktion: Negiert Werte Mathematische Bedeutung: 1-x AND Zeichen: \land Funktion: Überprüft, ob beide Werte 1 sind Mathematische Bedeutung: x_1*x_2 OR Zeichen: \lor Funktion: Überprüft, ob mind.</description>
+    <pubDate>Tue, 15 Apr 2025 08:53:02 GMT</pubDate>
+  </item><item>
+    <title>Logikgatter</title>
+    <link>https://quartz.jzhao.xyz/Technische-Informatik/Logikgatter</link>
+    <guid>https://quartz.jzhao.xyz/Technische-Informatik/Logikgatter</guid>
+    <description> Aus Logikgattern werden Schaltkreise gebaut.</description>
+    <pubDate>Tue, 15 Apr 2025 08:15:17 GMT</pubDate>
   </item><item>
     <title>Datenbanken</title>
     <link>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</link>
@@ -35,36 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Algorithmen</guid>
     <description></description>
     <pubDate>Sun, 13 Apr 2025 11:06:00 GMT</pubDate>
-  </item><item>
-    <title>Datenstrukturen</title>
-    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Datenstrukturen</link>
-    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Datenstrukturen</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:05:58 GMT</pubDate>
-  </item><item>
-    <title>UML und Struktugramme</title>
-    <link>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Struktugramme</link>
-    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Struktugramme</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:05:57 GMT</pubDate>
-  </item><item>
-    <title>Java-Programmierung</title>
-    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Java-Programmierung</link>
-    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Java-Programmierung</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:05:55 GMT</pubDate>
-  </item><item>
-    <title>Formale Sprachen und Grammatiken</title>
-    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Formale-Sprachen-und-Grammatiken</link>
-    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Formale-Sprachen-und-Grammatiken</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:05:40 GMT</pubDate>
-  </item><item>
-    <title>Turingmaschinen</title>
-    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</link>
-    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Turingmaschinen</guid>
-    <description></description>
-    <pubDate>Sun, 13 Apr 2025 11:05:38 GMT</pubDate>
   </item>
     </channel>
   </rss>
