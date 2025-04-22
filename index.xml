@@ -6,6 +6,18 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Themen</title>
+    <link>https://quartz.jzhao.xyz/Themen</link>
+    <guid>https://quartz.jzhao.xyz/Themen</guid>
+    <description> Theoretische Informatik Registermaschinen Endliche Automaten Turingmaschinen Formale Sprachen und Grammatiken Technische Informatik Logikgatter Flipflops und Clocks Boolesche Algebra Praktische Informatik Java-Programmierung UML und Struktogramme Datenstrukturen Algorithmen Komplexitätsbetrachtung ...</description>
+    <pubDate>Tue, 22 Apr 2025 13:39:15 GMT</pubDate>
+  </item><item>
+    <title>Registermaschinen</title>
+    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</link>
+    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</guid>
+    <description> sind Automaten mit Speichereinheiten (Registern) ähneln Assembly-Sprachen Aufbau Code BefehlWirkung 1Wirkung 2LOAD ic0:=c(i)b:=b+1CLOAD ic0:=ib:=b+1STORE ic(i):=c0b:=b+1ADD ic0:=c0+c(i)b:=b+1CADD ic0:=c0+ib:=b+1SUB ic0:=max(c0−c(i),0)b:=b+1CSUB ic0:=max(c0−i,0)b:=b+1MUL ic0:=c0*c(i)b:=b+1CMUL ic0:=...</description>
+    <pubDate>Tue, 22 Apr 2025 13:36:33 GMT</pubDate>
+  </item><item>
     <title>Datenbanken</title>
     <link>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</link>
     <guid>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</guid>
@@ -23,18 +35,6 @@
     <guid>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Struktogramme</guid>
     <description> zur Planung von Klassen bzw.</description>
     <pubDate>Tue, 22 Apr 2025 13:25:42 GMT</pubDate>
-  </item><item>
-    <title>Registermaschinen</title>
-    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</link>
-    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</guid>
-    <description> sind Automaten mit Speichereinheiten (Registern) ähneln Assembly-Sprachen Aufbau Code BefehlWirkung 1Wirkung 2LOAD ic0:=c(i)b:=b+1CLOAD ic0:=ib:=b+1INDLOAD ic0:=c(c(i))b:=b+1STORE ic(i):=c0b:=b+1INDSTORE ic(c(i)):=c0b:=b+1ADD ic0:=c0+c(i)b:=b+1CADD ic0:=c0+ib:=b+1INDADD ic0:=c0+c(c(i))b:=b+1SUB ic0...</description>
-    <pubDate>Tue, 22 Apr 2025 13:24:25 GMT</pubDate>
-  </item><item>
-    <title>Themen</title>
-    <link>https://quartz.jzhao.xyz/Themen</link>
-    <guid>https://quartz.jzhao.xyz/Themen</guid>
-    <description> Theoretische Informatik Registermaschinen Endliche Automaten Turingmaschinen Formale Sprachen und Grammatiken Technische Informatik Logikgatter Flipflops und Clocks Boolesche Algebra Praktische Informatik Java-Programmierung UML und Struktogramme Datenstrukturen Algorithmen Komplexitätsbetrachtung ...</description>
-    <pubDate>Tue, 22 Apr 2025 13:11:31 GMT</pubDate>
   </item><item>
     <title>Komplexitätsbetrachtung</title>
     <link>https://quartz.jzhao.xyz/Praktische-Informatik/Komplexit%C3%A4tsbetrachtung</link>
