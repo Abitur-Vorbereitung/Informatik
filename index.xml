@@ -6,29 +6,29 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Sortieralgorithmen</title>
+    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Sortieralgorithmen</link>
+    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Sortieralgorithmen</guid>
+    <description> zum Sortieren von Arrays Bubblesort class BubbleSort { public static void main(String args[]) { int arr[] = { 64, 34, 25, 12 }; int n = arr.length; for (int i = n-1; i &gt; 0; i--) for (int j = i-1; j &gt;= 0; j--) if (arr[j] &gt; arr[j + 1]) { // swap temp and arr[i] int temp = arr[j]; arr[j] = ar...</description>
+    <pubDate>Sun, 04 May 2025 17:35:48 GMT</pubDate>
+  </item><item>
+    <title>Registermaschinen</title>
+    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</link>
+    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</guid>
+    <description> sind Automaten mit Speichereinheiten (Registern) ähneln Assembly-Sprachen Aufbau Code BefehlWirkung 1Wirkung 2LOAD ic0:=c(i)b:=b+1CLOAD ic0:=ib:=b+1STORE ic(i):=c0b:=b+1ADD ic0:=c0+c(i)b:=b+1CADD ic0:=c0+ib:=b+1SUB ic0:=max(c0−c(i),0)b:=b+1CSUB ic0:=max(c0−i,0)b:=b+1MUL ic0:=c0*c(i)b:=b+1CMUL ic0:=...</description>
+    <pubDate>Fri, 25 Apr 2025 15:07:39 GMT</pubDate>
+  </item><item>
     <title>Themen</title>
     <link>https://quartz.jzhao.xyz/Themen</link>
     <guid>https://quartz.jzhao.xyz/Themen</guid>
     <description> Theoretische Informatik Registermaschinen Endliche Automaten Turingmaschinen Formale Sprachen und Grammatiken Technische Informatik Logikgatter Flipflops und Clocks Boolesche Algebra Praktische Informatik Java-Programmierung UML und Struktogramme Datenstrukturen Algorithmen Komplexitätsbetrachtung ...</description>
     <pubDate>Tue, 22 Apr 2025 13:39:15 GMT</pubDate>
   </item><item>
-    <title>Registermaschinen</title>
-    <link>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</link>
-    <guid>https://quartz.jzhao.xyz/Theoretische-Informatik/Registermaschinen</guid>
-    <description> sind Automaten mit Speichereinheiten (Registern) ähneln Assembly-Sprachen Aufbau Code BefehlWirkung 1Wirkung 2LOAD ic0:=c(i)b:=b+1CLOAD ic0:=ib:=b+1STORE ic(i):=c0b:=b+1ADD ic0:=c0+c(i)b:=b+1CADD ic0:=c0+ib:=b+1SUB ic0:=max(c0−c(i),0)b:=b+1CSUB ic0:=max(c0−i,0)b:=b+1MUL ic0:=c0*c(i)b:=b+1CMUL ic0:=...</description>
-    <pubDate>Tue, 22 Apr 2025 13:36:33 GMT</pubDate>
-  </item><item>
     <title>Datenbanken</title>
     <link>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</link>
     <guid>https://quartz.jzhao.xyz/Angewandte-Informatik/Datenbanken</guid>
     <description> zum gezielten Speichern, Manipulieren und Aufrufen von Informationen Arten Relational Tabellen verweisen aufeinander Nicht-Relational Tabellen sind unabhängig voneinander ER-Diagramm Entity-Relation-Diagramm SQL Structured Query Language SQL ist ein weit verbreitetes relationales Datenbank-System.</description>
     <pubDate>Tue, 22 Apr 2025 13:33:07 GMT</pubDate>
-  </item><item>
-    <title>Sortieralgorithmen</title>
-    <link>https://quartz.jzhao.xyz/Praktische-Informatik/Sortieralgorithmen</link>
-    <guid>https://quartz.jzhao.xyz/Praktische-Informatik/Sortieralgorithmen</guid>
-    <description> zum Sortieren von Arrays Bubblesort class BubbleSort { public static void main(String args[]) { int arr[] = { 64, 34, 25, 12 }; int n = arr.length; for (int i = n-1; i &gt; 0; i--) for (int j = i-1; j &gt;= 0; j--) if (arr[j] &gt; arr[j + 1]) { // swap temp and arr[i] int temp = arr[j]; arr[j] = ar...</description>
-    <pubDate>Tue, 22 Apr 2025 13:26:53 GMT</pubDate>
   </item><item>
     <title>UML und Struktogramme</title>
     <link>https://quartz.jzhao.xyz/Praktische-Informatik/UML-und-Struktogramme</link>
